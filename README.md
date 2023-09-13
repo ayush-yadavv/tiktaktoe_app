@@ -24,6 +24,7 @@ The main screen allows you to choose your player type (circle or cross) before s
 
 ![Gameplay](screenshots/gamescreen1.jpeg)
 ![Gameplay](screenshots/gamescreen2.jpeg)
+
 The gameplay screen displays the Tic-Tac-Toe board, and you can take turns playing against the computer opponent.
 
 
