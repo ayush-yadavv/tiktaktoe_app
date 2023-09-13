@@ -1,16 +1,49 @@
-# tiktaktoe_app
+# Tic-Tac-Toe Game
 
-A new Flutter project.
+Welcome to the Tic-Tac-Toe Game project! This Flutter application allows you to play the classic Tic-Tac-Toe game against a computer opponent.
+
+## Table of Contents
+
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Computer AI](#computer-ai)
+- [License](#license)
+
+## Screenshots
+
+Here are some screenshots from the Tic-Tac-Toe game:
+
+### Main Screen
+
+![Main Screen](screenshots/homescreen.jpeg)
+
+The main screen allows you to choose your player type (circle or cross) before starting the game.
+
+### Gameplay
+
+![Gameplay](screenshots/gamescreen1.jpeg)
+![Gameplay](screenshots/gamescreen2.jpeg)
+The gameplay screen displays the Tic-Tac-Toe board, and you can take turns playing against the computer opponent.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project on your local machine.
+Make sure you have Flutter and Dart installed on your system.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Choose your player type (circle or cross) at the beginning of the game.
+- Play against a computer opponent that makes random moves (basic AI).
+- Win the game by completing a row, column, or diagonal with your player type.
+- Enjoy a simple and intuitive user interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Computer AI
+
+The computer opponent in this game uses a basic AI that makes random moves. To improve the AI's intelligence, you can implement more advanced algorithms to make it a more challenging opponent.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
